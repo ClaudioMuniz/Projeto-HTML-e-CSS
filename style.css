@@ -1,3 +1,8 @@
 body{
     background: rgb(181, 181, 231);
 }
+article{
+    text-indent: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+}
